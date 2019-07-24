@@ -1,6 +1,6 @@
 # CTF PNG Critical Chunk Size Fixer
 
-This is a tool I created intended to be used in forensics challenges for CTFs where you are given a corrupted PNG file. After using a tool such as `pngcheck`, if there are critical chunks with incorrect sizes defined, then this tool will automatically go through each critical chunk and fix their sizes automatically for you.
+This is a tool I created intended to be used in forensics challenges for CTFs where you are given a corrupted PNG file. After using a tool such as `pngcheck`, if there are critical chunks with incorrect sizes defined, then this tool will automatically go through each critical chunk and fix their sizes for you.
 
 ## Getting Started
 
